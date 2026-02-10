@@ -25,4 +25,6 @@ I am a **Master's Student in Big Data** and an ambitious developer passionate ab
 ---
 
 ### 📊 GitHub Stats
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefelalem&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=youssefelalem&show_icons=true&theme=radical" alt="Youssef's GitHub Stats" />
+</p>
