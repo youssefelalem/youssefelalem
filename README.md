@@ -10,25 +10,10 @@ I'm a **Full Stack Developer** and **Master's Student in Big Data** building dig
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** Python, Java, C/C++, JavaScript, TypeScript
-- **Frontend:** React, Next.js, Tailwind, Bootstrap
-- **Backend:** Spring Boot, Node.js, Flask, Supabase
-- **Data & ML:** Hadoop, Hive, Spark, Scikit-learn, XGBoost, SHAP
-
----
-
 ### 📂 Featured Projects
 - **[Elite Master App](https://github.com/youssefelalem)**: Full-featured EdTech platform.
 - **[WaveScheduler Pro](https://youssefelalem.github.io/my-portfolio/)**: WhatsApp orchestration engine.
 - **[Student Performance ML](https://github.com/youssefelalem)**: XGBoost predictive pipeline.
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssefelalem&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats"/>
-</div>
 
 ---
 
