@@ -18,4 +18,4 @@ I'm a **Full Stack Developer** and **Master's Student in Big Data** building dig
 ---
 
 ### 🤝 Connect
-[**LinkedIn**](https://www.linkedin.com/in/youssef-elalem-977919277/) | [**GitHub**](https://github.com/youssefelalem) | [**Portfolio**](https://youssefelalem.github.io/my-portfolio/)
+[**LinkedIn**](https://www.linkedin.com/in/youssef-elalem-977919277/) | [**GitHub**](https://github.com/youssefelalem) | [**Instagram**](https://www.instagram.com/youssef_el_alem/) | [**Portfolio**](https://youssefelalem.github.io/my-portfolio/)
