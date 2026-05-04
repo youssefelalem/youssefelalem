@@ -22,3 +22,6 @@ I'm a **Full Stack Developer** and **Master's Student in Big Data** building dig
 
 ### 🤝 Connect
 [**LinkedIn**](https://www.linkedin.com/in/youssef-elalem-977919277/) | [**GitHub**](https://github.com/youssefelalem) | [**Instagram**](https://www.instagram.com/youssef_el_alem/) | [**Portfolio**](https://youssefelalem.github.io/my-portfolio/)
+
+📞 **Phone:** 0620247098  
+📧 **Email:** [youssefelalem3@gmail.com](mailto:youssefelalem3@gmail.com)
